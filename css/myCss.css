@@ -1,0 +1,12 @@
+#projects {
+  background-color: #2c3e50;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  padding: 40px 0;
+}
+.oyun-resmi {
+  width: 100%;         /* Kartın genişliğini tamamen kapla */
+  height: 200px;       /* Sabit yükseklik ver */
+/* Resmi orantılı şekilde göster, kırpmaz */
+  background-color: #f0f0f0; /* Boş kalan yerleri belli etmemesi için */
+}
